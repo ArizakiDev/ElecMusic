@@ -1,0 +1,37 @@
+.couleur {
+    color: #FFFDFC
+}
+
+.subtitle {
+    color: #FFFDFC
+}
+
+.title {
+    color: #FFFDFC
+}
+
+.body, html {
+    background: #0C0B0B
+}
+
+h2 {
+    color: #0743e6
+}
+
+h1 {
+    color: #FFFDFC
+}
+
+h3 {
+    color: #FFFDFC;
+    font: small-caps bold 24px/1 sans-serif;
+}
+
+em {
+    color: #FFFDFC;
+}
+
+h3 {
+    color: #FFFDFC;
+    font: small-caps bold 24px/1 sans-serif;
+}
